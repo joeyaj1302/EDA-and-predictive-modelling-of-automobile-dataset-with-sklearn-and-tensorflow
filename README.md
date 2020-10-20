@@ -1,1 +1,1 @@
-# EDA-and-predictive-modelling-finished-with-sklearn-anf-tf
+# EDA-and-predictive-modelling-finished-with-sklearn-and-tf
